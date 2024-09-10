@@ -1,0 +1,5 @@
+{
+    "cmd": ["/usr/local/bin/python3.5", "-u", $file"],
+    "selector": "source.python",
+    "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)"
+}

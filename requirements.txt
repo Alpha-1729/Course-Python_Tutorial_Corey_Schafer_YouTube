@@ -1,0 +1,7 @@
+pytz
+requests
+pillow
+flask
+flask-wtf
+email-validator
+flask-sqlalchemy
